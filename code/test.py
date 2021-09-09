@@ -21,7 +21,7 @@
 #     array2 = [1,6, 3, 4, 2, 9,10]
 #     print(findMedian(array2))
 
-
+p
 
 
 class TreeNode:
